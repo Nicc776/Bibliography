@@ -1,0 +1,1227 @@
+[
+  {
+    "arxiv_id": "2403.08877",
+    "title": "Collapsar disk outflows I: Viscous hydrodynamic evolution in axisymmetry",
+    "url": "https://arxiv.org/abs/2403.08877",
+    "keywords": [
+      "collapsar",
+      "legacy",
+      "not-printed",
+      "re-read",
+      "simulation",
+      "r-process",
+      "FLASH",
+      "nucleosynthesis"
+    ],
+    "abs": "We investigate mass ejection from accretion disks formed during the collapse of rapidly-rotating Wolf-Rayet stars. The neutrino-cooled, black hole (BH) accretion disk system that forms at the center of the star -- and the ensuing outflows -- provide the conditions for these systems to be candidate $r$-process element production sites and potential progenitors of broad-lined Type Ic (Ic-BL) supernovae. Here we present global, long-term axisymmetric hydrodynamic simulations of collapsar disks that include angular momentum transport through shear viscosity, neutrino emission and absorption, a 19-isotope nuclear reaction network and nuclear statistical equilibrium solver, a pseudo-Newtonian BH with mass and spin modified by accreted matter, and self-gravity. Starting from a stellar profile collapsed in spherical symmetry, our models capture disk formation self-consistently, and are evolved until after the shock wave -- driven by disk winds -- reaches the surface of the star. None of our models achieve sufficient neutronization to eject significant amounts of $r$-process elements (detailed nucleosynthesis calculations will follow in a companion paper). Sufficient $^{56}$Ni is produced to power a typical type Ic-BL supernova light curve, but the average asymptotic velocity is a factor $\\sim 2-3$ times too slow to account for the typical line widths in type Ic-BL supernova spectra. The gap in neutrino emission between BH formation and shocked disk formation, and the magnitude of the subsequent peak in emission, would be observable diagnostics of the internal conditions of the progenitor in a galactic collapsar. Periodic oscillations of the shocked disk prior to its expansion are also a potential observable through their impact on the the neutrino and gravitational wave signals.",
+    "authors": [
+      "Coleman Dean",
+      "Rodrigo Fern\u00e1ndez"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2024"
+  },
+  {
+    "arxiv_id": "1808.00461",
+    "title": "Long-term GRMHD Simulations of Neutron Star Merger Accretion Disks: Implications for Electromagnetic Counterparts",
+    "url": "https://arxiv.org/abs/1808.00461",
+    "keywords": [
+      "neutron star merger",
+      "simulation",
+      "legacy",
+      "read",
+      "not-printed",
+      "r-process",
+      "kilonova",
+      "nucleosynthesis",
+      "flash"
+    ],
+    "abs": "We investigate the long-term evolution of black hole accretion disks formed in neutron star mergers. These disks expel matter that contributes to an $r$-process kilonova, and can produce relativistic jets powering short gamma-ray bursts. Here we report the results of a three-dimensional, general-relativistic magnetohydrodynamic (GRMHD) simulation of such a disk which is evolved for long enough ($\\sim 9$s, or $\\sim 6\\times 10^5 r_{\\rm g}/c$) to achieve completion of mass ejection far from the disk. Our model starts with a poloidal field, and fully resolves the most unstable mode of the magnetorotational instability. We parameterize the dominant microphysics and neutrino cooling effects, and compare with axisymmetric hydrodynamic models with shear viscosity. The GRMHD model ejects mass in two ways: a prompt MHD-mediated outflow and a late-time, thermally-driven wind once the disk becomes advective. The total amount of unbound mass ejected ($0.013M_\\odot$, or $\\simeq 40\\%$ of the initial torus mass) is twice as much as in hydrodynamic models, with higher average velocity ($0.1c$) and a broad electron fraction distribution with a lower average value ($0.16$). Scaling the ejected fractions to a disk mass of $\\sim 0.1M_\\odot$ can account for the red kilonova from GW170817 but underpredicts the blue component. About $\\sim 10^{-3}M_\\odot$ of material should undergo neutron freezout and could produce a bright kilonova precursor in the first few hours after the merger. With our idealized initial magnetic field configuration, we obtain a robust jet and sufficient ejecta with Lorentz factor $\\sim 1-10$ to (over)produce the non-thermal emission from GW1708107.",
+    "authors": [
+      "Rodrigo Fern\u00e1ndez",
+      "Alexander Tchekhovskoy",
+      "Eliot Quataert",
+      "Francois Foucart",
+      "Daniel Kasen"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1093/mnras/sty2932",
+    "year": "2018"
+  },
+  {
+    "arxiv_id": "1512.05435",
+    "title": "Electromagnetic Signatures of Neutron Star Mergers in the Advanced LIGO Era",
+    "url": "https://arxiv.org/abs/1512.05435",
+    "keywords": [
+      "legacy",
+      "kilonova",
+      "neutron star merger",
+      "r-process",
+      "read",
+      "not-printed"
+    ],
+    "abs": "The mergers of binaries containing neutron stars and stellar-mass black holes are the most promising sources for direct detection in gravitational waves by the interferometers Advanced LIGO and Virgo over the next few years. The concurrent detection of electromagnetic emission from these events would greatly enhance the scientific return of these discoveries. Here we review the state of the art in modeling the electromagnetic signal of neutron star binary mergers across different phases of the merger and multiple wavelengths. We focus on those observables which provide the most sensitive diagnostics of the merger physics and the contribution to the synthesis of rapid neutron capture ($r$-process) elements in the Galaxy. We also outline expected future developments on the observational and theoretical sides of this rapidly evolving field.",
+    "authors": [
+      "Rodrigo Fern\u00e1ndez",
+      "Brian D. Metzger"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1146/annurev-nucl-102115-044819",
+    "year": "2015"
+  },
+  {
+    "arxiv_id": "astro-ph/0609142",
+    "title": "The Supernova -- Gamma-Ray Burst Connection",
+    "url": "https://arxiv.org/abs/astro-ph/0609142",
+    "keywords": [
+      "review",
+      "grb",
+      "supernovae",
+      "printed",
+      "read"
+    ],
+    "abs": "Observations show that at least some gamma-ray bursts (GRBs) happen simultaneously with core-collapse supernovae (SNe), thus linking by a common thread nature's two grandest explosions. We review here the growing evidence for and theoretical implications of this association, and conclude that most long-duration soft-spectrum GRBs are accompanied by massive stellar explosions (GRB-SNe). The kinetic energy and luminosity of well-studied GRB-SNe appear to be greater than those of ordinary SNe, but evidence exists, even in a limited sample, for considerable diversity. The existing sample also suggests that most of the energy in the explosion is contained in nonrelativistic ejecta (producing the supernova) rather than in the relativistic jets responsible for making the burst and its afterglow. Neither all SNe, nor even all SNe of Type Ibc produce GRBs. The degree of differential rotation in the collapsing iron core of massive stars when they die may be what makes the difference.",
+    "authors": [
+      "S. E. Woosley",
+      "J. S. Bloom"
+    ],
+    "journal": "Ann.Rev.Astron.Astrophys.44:507-556,2006",
+    "doi": "10.1146/annurev.astro.43.072103.150558",
+    "year": "2006"
+  },
+  {
+    "arxiv_id": "2212.07498",
+    "title": "Dynamics and Equation of State Dependencies of Relevance for Nucleosynthesis in Supernovae and Neutron Star Mergers",
+    "url": "https://arxiv.org/abs/2212.07498",
+    "keywords": [
+      "neutron star merger",
+      "supernovae",
+      "nucleosynthesis",
+      "equation of state",
+      "re-read",
+      "not-printed"
+    ],
+    "abs": "Neutron stars (NSs) and black holes (BHs) are born when the final collapse of the stellar core terminates the lives of stars more massive than about 9 Msun. This can trigger the powerful ejection of a large fraction of the star's material in a core-collapse supernova (CCSN), whose extreme luminosity is energized by the decay of radioactive isotopes such as 56Ni and 56Co. When evolving in close binary systems, the compact relics of such infernal catastrophes spiral towards each other on orbits gradually decaying by gravitational-wave emission. Ultimately, the violent collision of the two components forms a more massive, rapidly spinning remnant, again accompanied by the ejection of considerable amounts of matter. These merger events can be observed by high-energy bursts of gamma rays with afterglows and electromagnetic transients called kilonovae, which radiate the energy released in radioactive decays of freshly assembled rapid neutron-capture elements. By means of their mass ejection and the nuclear and neutrino reactions taking place in the ejecta, both CCSNe and compact object mergers (COMs) are prominent sites of heavy-element nucleosynthesis and play a central role in the cosmic cycle of matter and the chemical enrichment history of galaxies. The nuclear equation of state (EoS) of NS matter, from neutron-rich to proton-dominated conditions and with temperatures ranging from about zero to ~100 MeV, is a crucial ingredient in these astrophysical phenomena. It determines their dynamical processes, their remnant properties even at the level of deciding between NS or BH, and the properties of the associated emission of neutrinos, whose interactions govern the thermodynamic conditions and the neutron-to-proton ratio for nucleosynthesis reactions in the innermost ejecta. This chapter discusses corresponding EoS dependent effects of relevance in CCSNe as well as COMs. (slightly abridged)",
+    "authors": [
+      "H. -Thomas Janka",
+      "Andreas Bauswein"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2022"
+  },
+  {
+    "arxiv_id": "0912.2393",
+    "title": "A New Open-Source Code for Spherically-Symmetric Stellar Collapse to Neutron Stars and Black Holes",
+    "url": "https://arxiv.org/abs/0912.2393",
+    "keywords": [
+      "methods paper",
+      "gr1d",
+      "simulation",
+      "not-printed",
+      "not-read"
+    ],
+    "abs": "We present the new open-source spherically-symmetric general-relativistic (GR) hydrodynamics code GR1D. It is based on the Eulerian formulation of GR hydrodynamics (GRHD) put forth by Romero-Ibanez-Gourgoulhon and employs radial-gauge, polar-slicing coordinates in which the 3+1 equations simplify substantially. We discretize the GRHD equations with a finite-volume scheme, employing piecewise-parabolic reconstruction and an approximate Riemann solver. GR1D is intended for the simulation of stellar collapse to neutron stars and black holes and will also serve as a testbed for modeling technology to be incorporated in multi-D GR codes. Its GRHD part is coupled to various finite-temperature microphysical equations of state in tabulated form that we make available with GR1D. An approximate deleptonization scheme for the collapse phase and a neutrino-leakage/heating scheme for the postbounce epoch are included and described. We also derive the equations for effective rotation in 1D and implement them in GR1D. We present an array of standard test calculations and also show how simple analytic equations of state in combination with presupernova models from stellar evolutionary calculations can be used to study qualitative aspects of black hole formation in failing rotating core-collapse supernovae. In addition, we present a simulation with microphysical EOS and neutrino leakage/heating of a failing core-collapse supernova and black hole formation in a presupernova model of a 40 solar mass zero-age main-sequence star. We find good agreement on the time of black hole formation (within 20%) and last stable protoneutron star mass (within 10%) with predictions from simulations with full Boltzmann neutrino radiation hydrodynamics.",
+    "authors": [
+      "Evan O'Connor",
+      "Christian D. Ott"
+    ],
+    "journal": "Class.Quant.Grav.27:114103,2010",
+    "doi": "10.1088/0264-9381/27/11/114103",
+    "year": "2009"
+  },
+  {
+    "arxiv_id": "1010.5550",
+    "title": "Black Hole Formation in Failing Core-Collapse Supernovae",
+    "url": "https://arxiv.org/abs/1010.5550",
+    "keywords": [
+      "core-collapse",
+      "gr1d",
+      "simulation",
+      "read",
+      "not-printed"
+    ],
+    "abs": "We present results of a systematic study of failing core-collapse supernovae and the formation of stellar-mass black holes (BHs). Using our open-source general-relativistic 1.5D code GR1D equipped with a three-species neutrino leakage/heating scheme and over 100 presupernova models, we study the effects of the choice of nuclear equation of state (EOS), zero-age main sequence (ZAMS) mass and metallicity, rotation, and mass-loss prescription on BH formation. We find that the outcome, for a given EOS, can be estimated, to first order, by a single parameter, the compactness of the stellar core at bounce. By comparing protoneutron star (PNS) structure at the onset of gravitational instability with solutions of the Tolman-Oppenheimer-Volkof equations, we find that thermal pressure support in the outer PNS core is responsible for raising the maximum PNS mass by up to 25% above the cold NS value. By artificially increasing neutrino heating, we find the critical neutrino heating efficiency required for exploding a given progenitor structure and connect these findings with ZAMS conditions, establishing, albeit approximately, for the first time based on actual collapse simulations, the mapping between ZAMS parameters and the outcome of core collapse. We also study the effect of progenitor rotation and find that the dimensionless spin of nascent BHs may be robustly limited below a^* = Jc/GM^2 = 1 by the appearance of nonaxisymmetric rotational instabilities.",
+    "authors": [
+      "Evan O'Connor",
+      "Christian D. Ott"
+    ],
+    "journal": "Astro. Phys. J. 730 2011 70",
+    "doi": "10.1088/0004-637X/730/2/70",
+    "year": "2010"
+  },
+  {
+    "arxiv_id": "1411.3726",
+    "title": "Kilonova Light Curves from the Disk Wind Outflows of Compact Object Mergers",
+    "url": "https://arxiv.org/abs/1411.3726",
+    "keywords": [
+      "kilonova",
+      "light curves",
+      "sedona",
+      "legacy",
+      "re-read",
+      "printed",
+      "r-process",
+      "nucleosynthesis",
+      "neutron star merger"
+    ],
+    "abs": "We study the radioactively-powered transients produced by accretion disk winds following a compact object merger. Starting with the outflows generated in two-dimensional hydrodynamical disk models, we use wavelength-dependent radiative transfer calculations to generate synthetic light curves and spectra. We show that the brightness and color of the resulting kilonova transients carry information about the merger physics. In the regions of the wind where neutrino irradiation raises the electron fraction to Ye > 0.25, r-process nucleosynthesis halts before producing high-opacity, complex ions (the lanthanides). The kilonova light curves thus show two distinct components: a brief (~2 day) blue optical transient produced in the outer lanthanide-free ejecta, and a longer (~10 day) infrared transient produced in the inner, lanthanide line-blanketed region. Mergers producing a longer-lived neutron star, or a more rapidly spinning black hole, have stronger neutrino irradiation, generate more lanthanide-free ejecta, and are optically brighter and bluer. At least some optical emission is produced in all disk wind models, which should enhance the detectability of electromagnetic counterparts to gravitational wave sources. However, the presence of even a small amount (10^{-4} Msun) of overlying, neutron-rich dynamical ejecta will act as a \"lanthanide-curtain\", obscuring the optical wind emission from certain viewing angles. Because the disk outflows have moderate velocities (~10,000 km/s), numerous resolved line features are discernible in the spectra, distinguishing disk winds from fast-moving dynamical ejecta, and offering a potential diagnostic of the detailed composition of freshly produced r-process material.",
+    "authors": [
+      "Daniel Kasen",
+      "Rodrigo Fernandez",
+      "Brian Metzger"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1093/mnras/stv721",
+    "year": "2014"
+  },
+  {
+    "arxiv_id": "astro-ph/0606111",
+    "title": "Time Dependent Monte Carlo Radiative Transfer Calculations For 3-Dimensional Supernova Spectra, Lightcurves, and Polarization",
+    "url": "https://arxiv.org/abs/astro-ph/0606111",
+    "keywords": [
+      "sedona",
+      "light curves",
+      "methods paper",
+      "read",
+      "printed"
+    ],
+    "abs": "We discuss Monte-Carlo techniques for addressing the 3-dimensional time-dependent radiative transfer problem in rapidly expanding supernova atmospheres. The transfer code SEDONA has been developed to calculate the lightcurves, spectra, and polarization of aspherical supernova models. From the onset of free-expansion in the supernova ejecta, SEDONA solves the radiative transfer problem self-consistently, including a detailed treatment of gamma-ray transfer from radioactive decay and with a radiative equilibrium solution of the temperature structure. Line fluorescence processes can also be treated directly. No free parameters need be adjusted in the radiative transfer calculation, providing a direct link between multi-dimensional hydrodynamical explosion models and observations. We describe the computational techniques applied in SEDONA, and verify the code by comparison to existing calculations. We find that convergence of the Monte Carlo method is rapid and stable even for complicated multi-dimensional configurations. We also investigate the accuracy of a few commonly applied approximations in supernova transfer, namely the stationarity approximation and the two-level atom expansion opacity formalism.",
+    "authors": [
+      "Daniel Kasen",
+      "R. C. Thomas",
+      "Peter Nugent"
+    ],
+    "journal": "Astrophys.J.651:366-380,2006",
+    "doi": "10.1086/506190",
+    "year": "2006"
+  },
+  {
+    "arxiv_id": "1209.2712",
+    "title": "Nuclear Dominated Accretion Flows in Two Dimensions. I. Torus Evolution with Parametric Microphysics",
+    "url": "https://arxiv.org/abs/1209.2712",
+    "keywords": [
+      "simulation",
+      "flash",
+      "neutron star merger",
+      "legacy",
+      "nucleosynthesis",
+      "printed",
+      "read"
+    ],
+    "abs": "We explore the evolution of radiatively inefficient accretion disks in which nuclear reactions are dynamically important (`Nuclear Dominated Accretion Flows', or NuDAFs). Examples of such disks are those generated by the merger of a white dwarf with a neutron star or black hole, or by the collapse of a rotating star. Here we present two-dimensional hydrodynamic simulations that systematically explore the effect of adding a single nuclear reaction to a viscous torus. The equation of state, anomalous shear stress, and nuclear reactions are given parametric forms. Our results point to the existence of two qualitatively different regimes of NuDAF evolution: (1) steady accretion with quiescent burning; or (2) detonation of the disk. These outcomes are controlled primarily by the ratio of the nuclear energy released to the enthalpy at the burning radius. Disks detonate if this ratio exceeds a critical value (~1), and if burning occurs in regions where neutrino cooling is unimportant. Thermonuclear runaways are seeded by the turbulent mixing of hot ash with cold fuel at the burning front. Subcritical disks do not explode, but instead power a persistent collimated outflow of unbound material composed primarily of ash, with a mass-loss rate that increases with the nuclear binding energy released. We discuss the implications of our results for supernova-like counterparts from astrophysical events in the NuDAF regime. In particular, detonations following a white dwarf - neutron star merger could account for some subluminous Type Ia supernovae, such as the class defined by SN 2002cx.",
+    "authors": [
+      "Rodrigo Fern\u00e1ndez",
+      "Brian D. Metzger"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1088/0004-637X/763/2/108",
+    "year": "2012"
+  },
+  {
+    "arxiv_id": "1304.6720",
+    "title": "Delayed outflows from black hole accretion tori following neutron star binary coalescence",
+    "url": "https://arxiv.org/abs/1304.6720",
+    "keywords": [
+      "nucleosynthesis",
+      "r-process",
+      "neutron star merger",
+      "legacy",
+      "read",
+      "simulation",
+      "flash",
+      "neutrinos",
+      "printed"
+    ],
+    "abs": "Expulsion of neutron-rich matter following the merger of neutron star (NS) binaries is crucial to the radioactively-powered electromagnetic counterparts of these events and to their relevance as sources of r-process nucleosynthesis. Here we explore the long-term (viscous) evolution of remnant black hole accretion disks formed in such mergers by means of two-dimensional, time-dependent hydrodynamical simulations. The evolution of the electron fraction due to charged-current weak interactions is included, and neutrino self-irradiation is modeled as a lightbulb that accounts for the disk geometry and moderate optical depth effects. Over several viscous times (~1s), a fraction ~10% of the initial disk mass is ejected as a moderately neutron-rich wind (Y_e ~ 0.2) powered by viscous heating and nuclear recombination, with neutrino self-irradiation playing a sub-dominant role. Although the properties of the outflow vary in time and direction, their mean values in the heavy-element production region are relatively robust to variations in the initial conditions of the disk and the magnitude of its viscosity. The outflow is sufficiently neutron-rich that most of the ejecta forms heavy r-process elements with mass number A >130, thus representing a new astrophysical source of r-process nucleosynthesis, distinct from that produced in the dynamical ejecta. Due to its moderately high entropy, disk outflows contain a small residual fraction ~1% of helium, which could produce a unique spectroscopic signature.",
+    "authors": [
+      "Rodrigo Fern\u00e1ndez",
+      "Brian D. Metzger"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1093/mnras/stt1312",
+    "year": "2013"
+  },
+  {
+    "arxiv_id": "1402.4803",
+    "title": "Red or blue? A potential kilonova imprint of the delay until black hole formation following a neutron star merger",
+    "url": "https://arxiv.org/abs/1402.4803",
+    "keywords": [
+      "legacy",
+      "kilonova",
+      "neutron star merger",
+      "not-printed",
+      "read",
+      "neutrinos",
+      "simulation",
+      "flash"
+    ],
+    "abs": "Mergers of binary neutron stars (NSs) usually result in the formation of a hypermassive neutron star (HMNS). Whether- and when this remnant collapses to a black hole (BH) depends primarily on the equation of state and on angular momentum transport processes, both of which are uncertain. Here we show that the lifetime of the merger remnant may be directly imprinted in the radioactively powered kilonova emission following the merger. We employ axisymmetric, time-dependent hydrodynamic simulations of remnant accretion disks orbiting a HMNS of variable lifetime, and characterize the effect of this delay to BH formation on the disk wind ejecta. When BH formation is relatively prompt (~ 100 ms), outflows from the disk are sufficiently neutron rich to form heavy r-process elements, resulting in ~ week-long emission with a spectral peak in the near-infrared (NIR), similar to that produced by the dynamical ejecta. In contrast, delayed BH formation allows neutrinos from the HMNS to raise the electron fraction in the polar direction to values such that potentially Lanthanide-free outflows are generated. The lower opacity would produce a brighter, bluer, and shorter-lived ~ day-long emission (a `blue bump') prior to the late NIR peak from the dynamical ejecta and equatorial wind. This new diagnostic of BH formation should be useful for events with a signal to noise lower than that required for direct detection of gravitational waveform signatures.",
+    "authors": [
+      "Brian D. Metzger",
+      "Rodrigo Fern\u00e1ndez"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1093/mnras/stu802",
+    "year": "2014"
+  },
+  {
+    "arxiv_id": "1409.4426",
+    "title": "Outflows from accretion disks formed in neutron star mergers: effect of black hole spin",
+    "url": "https://arxiv.org/abs/1409.4426",
+    "keywords": [
+      "neutron star merger",
+      "legacy",
+      "not-printed",
+      "read",
+      "flash",
+      "simulation",
+      "accretion disk",
+      "neutrino",
+      "r-process",
+      "nucleosynthesis",
+      "kilonova"
+    ],
+    "abs": "The accretion disk that forms after a neutron star merger is a source of neutron-rich ejecta. The ejected material contributes to a radioactively-powered electromagnetic transient, with properties that depend sensitively on the composition of the outflow. Here we investigate how the spin of the black hole remnant influences mass ejection on the thermal and viscous timescales. We carry out two-dimensional, time-dependent hydrodynamic simulations of merger remnant accretion disks including viscous angular momentum transport and approximate neutrino self-irradiation. The gravity of the spinning black hole is included via a pseudo-Newtonian potential. We find that a disk around a spinning black hole ejects more mass, up to a factor of several, relative to the non-spinning case. The enhanced mass loss is due to energy release by accretion occurring deeper in the gravitational potential, raising the disk temperature and hence the rate of viscous heating in regions where neutrino cooling is ineffective. The mean electron fraction of the outflow increases moderately with BH spin due to a highly-irradiated (though not neutrino-driven) wind component. While the bulk of the ejecta is still very neutron-rich, thus generating heavy r-process elements, the leading edge of the wind contains a small amount of Lanthanide-free material. This component can give rise to a ~1 day blue optical `bump' in a kilonova light curve, even in the case of prompt BH formation, which may facilitate its detection.",
+    "authors": [
+      "Rodrigo Fern\u00e1ndez",
+      "Daniel Kasen",
+      "Brian D. Metzger",
+      "Eliot Quataert"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1093/mnras/stu2112",
+    "year": "2014"
+  },
+  {
+    "arxiv_id": "-",
+    "title": "Instability, Turbulence, and Enhanced Transport in Accretion Disks ",
+    "url": "",
+    "keywords": [
+      "accretion disk",
+      "review",
+      "mri",
+      "not-printed",
+      "not-read"
+    ],
+    "abs": "Recent years have witnessed dramatic progress in our understanding of how turbulence arises and transports angular momentum in astrophysical accretion disks. The key conceptual point has its origins in work dating from the 1950s, but its implications have been fully understood only in the last several years: the combination of a subthermal magnetic field (any nonpathological configuration will do) and outwardly decreasing differential rotation rapidly generates magnetohydrodynamic (MHD) turbulence via a remarkably simple linear instability. The result is a greatly enhanced effective viscosity, the origin of which had been a long-standing problem. The MHD nature of disk turbulence has linked two broad domains of magnetized fluid research: accretion theory and dynamos. The understanding that weak magnetic fields are not merely passively acted upon by turbulence, but actively generate it, means that the assumptions of classical dynamo theory break down in disks. Paralleling the new conceptual understanding has been the development of powerful numerical MHD codes. These have taught us that disks truly are turbulent, transporting angular momentum at greatly enhanced rates. We have also learned, however, that not all forms of disk turbulence do this. Purely hydrodynamic turbulence, when it is imposed, simply causes fluctuations without a significant increase in transport. The interplay between numerical simulation and analytic arguments has been particularly fruitful in accretion disk theory and is a major focus of this article. The authors conclude with a summary of what is now known of disk turbulence and mention some knotty outstanding questions (e.g., what is the physics behind nonlinear field saturation?) for which we may soon begin to develop answers.",
+    "authors": [
+      "Balbus S. A.",
+      "Hawley",
+      "J. F."
+    ],
+    "journal": "Reviews of Modern Physics",
+    "doi": "10.1103/RevModPhys.70.1",
+    "year": "1998"
+  },
+  {
+    "arxiv_id": "2411.04221",
+    "title": "Variety of disc wind-driven explosions in massive rotating stars. II. Dependence on the progenitor",
+    "url": "https://arxiv.org/abs/2411.04221",
+    "keywords": [
+      "collapsar",
+      "simulation",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "We assess the variance of supernova(SN)-like explosions associated with the core collapse of rotating massive stars into a black hole-accretion disc system under changes in the progenitor structure. Our model of the central engine evolves the black hole and the disc through the transfer of matter and angular momentum and includes the contribution of the disc wind. We perform two-dimensional, non-relativistic, hydrodynamics simulations using the open-source hydrodynamic code Athena++, for which we develop a method to calculate self-gravity for axially symmetric density distributions. For a fixed model of the wind injection, we explore the explosion characteristics for progenitors with zero-age main-sequence masses from 9 to 40 $M_\\odot$ and different degrees of rotation. Our outcomes reveal a wide range of explosion energies with $E_\\mathrm{expl}$ spanning from $\\sim 0.3\\times10^{51}$~erg to $ > 8\\times 10^{51}$~erg and ejecta mass $M_\\mathrm{ej}$ from $\\sim 0.6$ to $> 10 M_\\odot$. Our results are in agreement with some range of the observational data of stripped-envelope and high-energy SNe such as broad-lined type Ic SNe, but we measure a stronger correlation between $E_\\mathrm{expl}$ and $M_\\mathrm{ej}$. We also provide an estimate of the $^{56}$Ni mass produced in our models which goes from $\\sim0.04\\;M_\\odot$ to $\\sim 1.3\\;M_\\odot$. The $^{56}$Ni mass shows a correlation with the mass and the angular velocity of the progenitor: more massive and faster rotating progenitors tend to produce a higher amount of $^{56}$Ni. Finally, we present a criterion that allows the selection of a potential collapsar progenitor from the observed explosion energy.",
+    "authors": [
+      "Ludovica Crosato Menegazzi",
+      "Sho Fujibayashi",
+      "Masaru Shibata",
+      "Aurore Betranhandy",
+      "Koh Takahashi"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2024"
+  },
+  {
+    "arxiv_id": "1111.0665",
+    "title": "Hydrodynamics of Core-Collapse Supernovae at the Transition to Explosion. I. Spherical Symmetry",
+    "url": "https://arxiv.org/abs/1111.0665",
+    "keywords": [
+      "not-read",
+      "not-printed",
+      "legacy",
+      "simulation",
+      "core-collapse",
+      "supernovae"
+    ],
+    "abs": "We study the transition to runaway expansion of an initially stalled core-collapse supernova shock. The neutrino luminosity, mass accretion rate, and neutrinospheric radius are all treated as free parameters. In spherical symmetry, this transition is mediated by a global non-adiabatic instability that develops on the advection time and reaches non-linear amplitude. Here we perform high-resolution, time-dependent hydrodynamic simulations of stalled supernova shocks with realistic microphysics to analyze this transition. We find that radial instability is a sufficient condition for runaway expansion if the neutrinospheric parameters do not vary with time and if heating by the accretion luminosity is neglected. For a given unstable mode, transition to runaway occurs when fluid in the gain region reaches positive specific energy. We find approximate instability criteria that accurately describe the behavior of the system over a wide region of parameter space. The threshold neutrino luminosities are in general different than the limiting value for a steady-state solution. We hypothesize that multidimensional explosions arise from the excitation of unstable large-scale modes of the turbulent background flow, at threshold luminosities that are lower than in the laminar case.",
+    "authors": [
+      "Rodrigo Fern\u00e1ndez"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1088/0004-637X/749/2/142",
+    "year": "2011"
+  },
+  {
+    "arxiv_id": "1905.06343",
+    "title": "Nuclear Dominated Accretion Flows in Two Dimensions. II. Ejecta dynamics and nucleosynthesis for CO and ONe white dwarfs",
+    "url": "https://arxiv.org/abs/1905.06343",
+    "keywords": [
+      "legacy",
+      "read",
+      "printed",
+      "nucleosynthesis",
+      "neutron star merger",
+      "simulation"
+    ],
+    "abs": "We study mass ejection from accretion disks formed in the merger of a white dwarf with a neutron star or black hole. These disks are mostly radiatively-inefficient and support nuclear fusion reactions, with ensuing outflows and electromagnetic transients. Here we perform time-dependent, axisymmetric hydrodynamic simulations of these disks including a physical equation of state, viscous angular momentum transport, a coupled $19$-isotope nuclear network, and self-gravity. We find no detonations in any of the configurations studied. Our global models extend from the central object to radii much larger than the disk. We evolve these global models for several orbits, as well as alternate versions with an excised inner boundary to much longer times. We obtain robust outflows, with a broad velocity distribution in the range $10^2-10^4$ km s$^{-1}$. The outflow composition is mostly that of the initial white dwarf, with burning products mixed in at the $\\lesssim 10-30\\%$ level by mass, including up to $\\sim 10^{-2}M_\\odot$ of ${}^{56}$Ni. These heavier elements (plus ${}^{4}$He) are ejected within $\\lesssim 40^\\circ$ of the rotation axis, and should have higher average velocities than the lighter elements that make up the white dwarf. These results are in broad agreement with previous one- and two-dimensional studies, and point to these systems as progenitors of rapidly-rising ($\\sim $ few day) transients. If accretion onto the central BH/NS powers a relativistic jet, these events could be accompanied by high energy transients with peak luminosities $\\sim 10^{47}-10^{50}$ erg s$^{-1}$ and peak durations of up to several minutes, possibly accounting for events like CDF-S XT2.",
+    "authors": [
+      "Rodrigo Fern\u00e1ndez",
+      "Ben Margalit",
+      "Brian D. Metzger"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1093/mnras/stz1701",
+    "year": "2019"
+  },
+  {
+    "arxiv_id": "2101.02712",
+    "title": "Mass ejection in failed supernovae: equation of state and neutrino loss dependence",
+    "url": "https://arxiv.org/abs/2101.02712",
+    "keywords": [
+      "simulation",
+      "gr1d",
+      "legacy",
+      "printed",
+      "read",
+      "core-collapse",
+      "neutrino",
+      "equation of state"
+    ],
+    "abs": "A failed core-collapse supernova from a non-rotating progenitor can eject mass due to a weakening of gravity associated to neutrino emission by the protoneutron star. This mechanism yields observable transients and sets an upper limit to the mass of the black hole (BH) remnant. Previous global simulations of this mechanism have included neutrino losses parametrically, however, with direct implications for the ejecta mass and energy. Here we evolve the inner supernova core with a spherically-symmetric, general-relativistic neutrino radiation-hydrodynamic code until BH formation. We then use the result in a Newtonian code that follows the response of the outer layers of the star to the change in gravity and resolves the surface pressure scale height. We find that the dense-matter equation of state (EOS) can introduce a factor $\\sim 2$ variation in gravitational mass lost to neutrinos, with a stiff EOS matching previous parametric results, and a soft EOS yielding lower ejecta masses and energies by a factor of several. This difference is caused primarily by the longer time to BH formation in stiffer EOSs. With a soft EOS, our red and yellow supergiant progenitors fail to unbind mass if hydrogen recombination energy is not included. Using a linear ramp in time for mass-energy lost to neutrinos (with suitable parameters) yields a stellar response within $\\sim 10\\%$ of that obtained using the detailed history of neutrino losses. Our results imply quantitative but not qualitative modifications to previous predictions for shock breakout, plateau emission, and final BH masses from these events.",
+    "authors": [
+      "Mario Ivanov",
+      "Rodrigo Fern\u00e1ndez"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.3847/1538-4357/abe59e",
+    "year": "2021"
+  },
+  {
+    "arxiv_id": "1509.07124",
+    "title": "The Spectral SN-GRB Connection: Systematic Spectral Comparisons between Type Ic Supernovae, and broad-lined Type Ic Supernovae with and without Gamma-Ray Bursts",
+    "url": "https://arxiv.org/abs/1509.07124",
+    "keywords": [
+      "grb",
+      "supernovae",
+      "read",
+      "printed"
+    ],
+    "abs": "We present the first systematic investigation of spectral properties of 17 Type Ic Supernovae (SNe Ic), 10 broad-lined SNe Ic (SNe Ic-bl) without observed Gamma-Ray Bursts (GRBs) and 11 SNe Ic-bl with GRBs (SN-GRBs) as a function of time in order to probe their explosion conditions and progenitors. We analyze a total of 407 spectra, which were drawn from published spectra of individual SNe as well as from the densely time-sampled spectra data of Modjaz et al. (2014). In order to quantify the diversity of the SN spectra as a function of SN subtype, we construct average spectra of SNe Ic, SNe Ic-bl without GRBs and SNe Ic-bl with GRBs. We find that SN 1994I is not a typical SN Ic, in contrast to common belief, while the spectra of SN 1998bw/GRB 980425 are representative of mean spectra of SNe Ic-bl. We measure the ejecta absorption and width velocities using a new method described here and find that SNe Ic-bl with GRBs, on average, have quantifiably higher absorption velocities, as well as broader line widths than SNe without observed GRBs. In addition, we search for correlations between SN-GRB spectral properties and the energies of their accompanying GRBs. Finally, we show that the absence of clear He lines in optical spectra of SNe Ic-bl, and in particular of SN-GRBs, is not due to them being too smeared out due to the high velocities present in the ejecta. This implies that the progenitor stars of SN-GRBs are probably He-free, in addition to being H-free, which puts strong constraints on the stellar evolutionary paths needed to produce such SN-GRB progenitors at the observed low metallicities.",
+    "authors": [
+      "Maryam Modjaz",
+      "Yuqian Q. Liu",
+      "Federica B. Bianco",
+      "Or Graur"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.3847/0004-637X/832/2/108",
+    "year": "2015"
+  },
+  {
+    "arxiv_id": "1708.02630",
+    "title": "A GRB and Broad-lined Type Ic Supernova from a Single Central Engine",
+    "url": "https://arxiv.org/abs/1708.02630",
+    "keywords": [
+      "read",
+      "printed",
+      "grb",
+      "supernovae"
+    ],
+    "abs": "Unusually high velocities (< ~0.1c) and correspondingly high kinetic energies have been observed in a subset of Type Ic supernovae (so-called \"broad-lined Ic\" supernovae; SNe Ic-BL), prompting a search for a central engine model capable of generating such energetic explosions. A clue to the explosion mechanism may lie in the fact that all supernovae that accompany long-duration gamma-ray bursts belong to the SN Ic-BL class. Using a combination of two-dimensional relativistic hydrodynamics and radiation transport calculations, we demonstrate that the central engine responsible for long gamma-ray bursts can also trigger a SN Ic-BL. We find that a reasonable gamma-ray burst engine injected into a stripped Wolf-Rayet progenitor produces a relativistic jet with energy ~10^51 ergs, as well as a SN whose synthetic light curves and spectra are fully consistent with observed SNe Ic-BL during the photospheric phase. As a result of the jet's asymmetric energy injection, the SN spectra and light curves depend on viewing angle. The impact of viewing angle on the spectrum is particularly pronounced at early times, while the viewing angle dependence for the light curves (~10% variation in bolometric luminosity) persists throughout the photospheric phase.",
+    "authors": [
+      "Jennifer Barnes",
+      "Paul C. Duffell",
+      "Yuqian Liu",
+      "Maryam Modjaz",
+      "Federica B. Bianco",
+      "Daniel Kasen",
+      "Andrew I. MacFadyen"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.3847/1538-4357/aabf84",
+    "year": "2017"
+  },
+  {
+    "arxiv_id": "2105.08092",
+    "title": "Proto-magnetar jets as central engines for broad-lined type Ic supernovae",
+    "url": "https://arxiv.org/abs/2105.08092",
+    "keywords": [
+      "grb",
+      "supernovae",
+      "magnetar",
+      "read",
+      "printed"
+    ],
+    "abs": "A subset of type Ic supernovae (SNe Ic), broad-lined SNe Ic (SNe Ic-bl), show unusually high kinetic energies ($\\sim 10^{52}$ erg) which cannot be explained by the energy supplied by neutrinos alone. Many SNe Ic-bl have been observed in coincidence with long gamma-ray bursts (GRBs) which suggests a connection between SNe and GRBs. A small fraction of core-collapse supernovae (CCSNe) form a rapidly-rotating and strongly-magnetized protoneutron star (PNS), a proto-magnetar. Jets from such magnetars can provide the high kinetic energies observed in SNe Ic-bl and also provide the connection to GRBs. In this work we use the jetted outflow produced in a 3D CCSN simulation from a consistently formed proto-magnetar as the central engine for full-star explosion simulations. We extract a range of central engine parameters and find that the extracted engine energy is in the range of $6.231 \\times 10^{51}-1.725 \\times 10^{52}$ erg, the engine time-scale in the range of $0.479-1.159$ s and the engine half-opening angle in the range of $\\sim 9-19^{\\circ}$. Using these as central engines, we perform 2D special-relativistic (SR) hydrodynamic (HD) and radiation transfer simulations to calculate the corresponding light curves and spectra. We find that these central engine parameters successfully produce SNe Ic-bl which demonstrates that jets from proto-magnetars can be viable engines for SNe Ic-bl. We also find that only the central engines with smaller opening angles ($\\sim 10^{\\circ}$) form a GRB implying that GRB formation is likely associated with narrower jet outflows and Ic-bl's without GRBs may be associated with wider outflows.",
+    "authors": [
+      "Swapnil Shankar",
+      "Philipp M\u00f6sta",
+      "Jennifer Barnes",
+      "Paul C. Duffell",
+      "Daniel Kasen"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1093/mnras/stab2964",
+    "year": "2021"
+  },
+  {
+    "arxiv_id": "0910.1590",
+    "title": "Type II Supernovae: Model Light Curves and Standard Candle Relationships",
+    "url": "https://arxiv.org/abs/0910.1590",
+    "keywords": [
+      "supernovae",
+      "light curves",
+      "sedona",
+      "simulation",
+      "read",
+      "printed"
+    ],
+    "abs": "A survey of Type II supernovae explosion models has been carried out to determine how their light curves and spectra vary with their mass, metallicity, and explosion energy. The presupernova models are taken from a recent survey of massive stellar evolution at solar metallicity supplemented by new calculations at subsolar metallicity. Explosions are simulated by the motion of a piston near the edge of the iron core and the resulting light curves and spectra are calculated using full multi-wavelength radiation transport. Formulae are developed that describe approximately how the model observables (light curve luminosity and duration) scale with the progenitor mass, explosion energy, and radioactive nucleosynthesis. Comparison with observational data shows that the explosion energy of typical supernovae (as measured by kinetic energy at infinity) varies by nearly an order of magnitude -- from 0.5 to 4.0 x 10^51 ergs, with a typical value of ~0.9 x 10^51 ergs. Despite the large variation, the models exhibit a tight relationship between luminosity and expansion velocity, similar to that previously employed empirically to make SNe IIP standardized candles. This relation is explained by the simple behavior of hydrogen recombination in the supernova envelope, but we find a sensitivity to progenitor metallicity and mass that could lead to systematic errors. Additional correlations between light curve luminosity, duration, and color might enable the use of SNe IIP to obtain distances accurate to ~20% using only photometric data.",
+    "authors": [
+      "Daniel Kasen",
+      "S. E. Woosley"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1088/0004-637X/703/2/2205",
+    "year": "2009"
+  },
+  {
+    "arxiv_id": "astro-ph/0301425",
+    "title": "Supernova Explosions from Accretion Disk Winds",
+    "url": "https://arxiv.org/abs/astro-ph/0301425",
+    "keywords": [
+      "collapsar",
+      "accretion disk",
+      "neutrino",
+      "review",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "Winds blown from accretion disks formed inside massive rotating stars may result in stellar explosions observable as Type Ibc and Type II supernovae. A key feature of the winds is their ability to produce the radioactive Nickel-56 necessary to power a supernova light curve. The wind strength depends on accretion disk cooling by neutrino emission and photo-disintegration of bound nuclei. These cooling processes depend on the angular momentum of the stellar progenitor via the virial temperature at the Kepler radius where the disk forms. The production of an observable supernova counterpart to a Gamma-Ray Burst (GRB) may therefore depend on the angular momentum of the stellar progenitor. Stars with low angular momentum may produce a GRB without making an observable supernova. Stars with large angular momentum may make extremely bright and energetic supernovae like SN 1998bw. Stars with an intermediate range of angular momentum may simultaneously produce a supernova and a GRB.",
+    "authors": [
+      "Andrew I. MacFadyen"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1007/10828549_14",
+    "year": "2003"
+  },
+  {
+    "arxiv_id": "2503.05959",
+    "title": "Neutrino Oscillations in Core-Collapse Supernovae and Neutron Star Mergers",
+    "url": "https://arxiv.org/abs/2503.05959",
+    "keywords": [
+      "review",
+      "re-read",
+      "printed",
+      "neutrino",
+      "core-collapse",
+      "neutron star merger"
+    ],
+    "abs": "Accurate neutrino transport is crucial for reliably modeling explosive astrophysical events like core-collapse supernovae (CCSNe) and neutron star mergers (NSMs). However, in these extremely neutrino-dense systems, flavor oscillations exhibit challenging nonlinear effects rooted in neutrino-neutrino forward scattering. Evidence is quickly accumulating that these collective phenomena can substantially affect explosion dynamics, neutrino signals, nucleosynthesis, and kilonova light curves. We review the progress made so far on the difficult and conceptually deep question of how to correctly include this physics in simulations of CCSNe and NSMs. Our aim is to take a broad view of where the problem stands, and so provide a critical assessment of where it is headed.",
+    "authors": [
+      "Lucas Johns",
+      "Sherwood Richers",
+      "Meng-Ru Wu"
+    ],
+    "journal": "No journal reference",
+    "doi": "10.1146/annurev-nucl-121423-100853",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2503.08790",
+    "title": "Multi-Phase Shock Cooling Emission in Ultra-Stripped Supernovae",
+    "url": "https://arxiv.org/abs/2503.08790",
+    "keywords": [
+      "supernovae",
+      "not-read",
+      "not-printed",
+      "light curves"
+    ],
+    "abs": "Ultra-stripped and Type Ibn supernovae (USSNe and SNe Ibn, respectively) are fast-evolving, hydrogen-poor transients that often show signs of interaction with dense circumstellar material (CSM). Wu & Fuller (2022) identify a mass range for helium-core stars in which they expand significantly during core oxygen/neon burning, resulting in extreme late-stage mass loss in tight binaries ($P\\sim1-100\\,{\\rm days}$). Here we explore the resulting light curves from a subset of models from Wu & Fuller (2022) and find that in some cases they can exhibit two phases of shock cooling emission (SCE). The first SCE is attributed to the circumbinary material, and the second SCE is from the extended helium-burning envelope of the exploding star. Since SCE luminosity is roughly proportional to the initial radius of the emitting material, events that exhibit both phases of SCE provide the exciting opportunity of measuring both the extent of the CSM and the radius of the exploding star. These light curves are explored with both analytic arguments and numerical modeling, and from this we identify the parameter space of CSM mass, helium envelope mass, and nickel mass, for which the helium envelope SCE will be visible. We provide a qualitative comparison of these models to two fast-evolving, helium-rich transients, SN2019kbj and SN2019dge. The similarity between these events and our models demonstrates that this extreme binary mass loss mechanism may explain some SNe Ibn and USSNe.",
+    "authors": [
+      "Annastasia Haynie",
+      "Samantha C. Wu",
+      "Anthony L. Piro",
+      "Jim Fuller"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2502.15896",
+    "title": "Modeling the emission lines from r-process elements in Supernova nebulae",
+    "url": "https://arxiv.org/abs/2502.15896",
+    "keywords": [
+      "not-read",
+      "not-printed",
+      "kilonova",
+      "supernovae",
+      "r-process",
+      "light curves"
+    ],
+    "abs": "The origin of heavy r-process elements in the universe is still a matter of great debate, with a confirmed scenario being neutron star (NS) mergers. Additional relevant sites could be specific classes of events, such as gamma-ray burst (GRB) Supernovae (SNe), where a central engine could push neutron-rich material outwards, contributing to the ejecta of the massive exploding star. Here, we investigate our ability to infer the production of heavy elements in such scenarios, on the basis of the observed nebular emission. We solve the steady-state ionization, level population, and thermal balance, for optically thin ejecta in non-local thermodynamic equilibrium (NLTE), in order to explore the role of heavy elements in cooling the gas, and their imprint in the emergent spectrum a few hundreds days post-explosion. We find that heavy elements would be relevant in the cooling process of the nebula only if they account for at least $\\sim1\\%$ of the total ejected mass, at the typical kinetic temperatures of a few thousands K. However, even in the absence of such amount, a few $0.1\\%$ of the total ejected mass could be instead sufficient to leave a detectable imprint around $\\sim1-10~\\mathrm{\\mu m}$. This wavelength range, which would be relatively clean from features due to light elements, would be instead robustly populated by lines from heavy elements arising from forbidden transitions in their atomic fine structures. Hence, the new generation of telescopes, represented by the James Webb Space Telescope (JWST), will most likely allow for their detection.",
+    "authors": [
+      "Giacomo Ricigliano",
+      "Kenta Hotokezaka",
+      "Almudena Arcones"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2411.03434",
+    "title": "A 3D Simulation of a Type II-P Supernova: from Core Bounce to Beyond Shock Breakout",
+    "url": "https://arxiv.org/abs/2411.03434",
+    "keywords": [
+      "simulation",
+      "supernovae",
+      "flash",
+      "sedona",
+      "light curves",
+      "read",
+      "printed"
+    ],
+    "abs": "In order to better connect core-collapse supernovae (CCSN) theory with its observational signatures, we have developed a simulation pipeline from the onset of core collapse to beyond shock breakout. Using this framework, we present a three-dimensional simulation study following the evolution from five seconds to over five days of a 17-M$_{\\odot}$ progenitor that explodes with $\\sim$10$^{51}$ erg of energy and $\\sim$0.1 M$_{\\odot}$ of $^{56}$Ni ejecta. The early explosion is highly asymmetric, expanding most prominently along the southern hemisphere. This early asymmetry is preserved to shock breakout, $\\sim$1 day later. Breakout itself evinces strong angle-dependence, with as much a day delay in shock breakout by direction. The nickel ejecta closely tails the forward shock, with velocities at breakout as high as $\\sim$7000 km s$^{-1}$. A delayed reverse shock forming at the H/He interface on hour timescales leads to the formation of Rayleigh-Taylor instabilities, fast-moving nickel bullets, and almost complete mixing of the metal core into the hydrogen envelope. For the first time, we illustrate the angle-dependent emergent broadband and bolometric light curves from simulations evolved in three-dimensions in entirety, continuing through hydrodynamic shock breakout a CCSN model of a massive stellar progenitor evolved with detailed, late-time neutrino microphysics and transport. Our case study of a single progenitor suggests that 3D simulations initiated with detailed neutrino heating can begin to generically produce the cornucopia of suggested asymmetries and features in CCSNe observations, while establishing the methodology to study this problem in breadth.",
+    "authors": [
+      "David Vartanyan",
+      "Benny T. H. Tsang",
+      "Daniel Kasen",
+      "Adam Burrows",
+      "Tianshu Wang",
+      "Lizzy Teryoshin"
+    ],
+    "journal": "ApJ 982 9 (2025)",
+    "doi": "10.3847/1538-4357/adb1e4",
+    "year": "2024"
+  },
+  {
+    "arxiv_id": "2503.13974",
+    "title": "SN 2023ixf in the Pinwheel Galaxy M101: From Shock Breakout to the Nebular Phase",
+    "url": "https://arxiv.org/abs/2503.13974",
+    "keywords": [
+      "light curves",
+      "supernovae",
+      "observation",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "We present photometric and spectroscopic observations of SN 2023ixf covering from day one to 442 days after explosion. SN 2023ixf reached a peak $V$-band absolute magnitude of $-18.2 \\pm 0.07$, and light curves show that it is in the fast-decliner (IIL) subclass with a relatively short ``plateau'' phase (fewer than $\\sim 70$ days). Early-time spectra of SN 2023ixf exhibit strong, very narrow emission lines from ionized circumstellar matter (CSM), possibly indicating a Type IIn classification. But these flash/shock-ionization emission features faded after the first week and the spectrum evolved in a manner similar to that of typical Type II SNe, unlike the case of most genuine SNe~IIn in which the ejecta interact with CSM for an extended period of time and develop intermediate-width emission lines. We compare observed spectra of SN 2023ixf with various model spectra to understand the physics behind SN 2023ixf. Our nebular spectra (between 200-400 d) match best with the model spectra from a 15 $\\rm M_{\\odot}$ progenitor which experienced enhanced mass loss a few years before explosion. A last-stage mass-loss rate of $\\dot{M} = 0.01 \\rm M_{\\odot} yr^{-1}$ from the r1w6 model matches best with the early-time spectra, higher than $\\dot{M} \\approx 2.4 \\times 10^{-3} \\rm M_{\\odot} yr^{-1}$ derived from the ionized H${\\alpha}$ luminosity at 1.58 d. We also use SN 2023ixf as a distance indicator and fit the light curves to derive the Hubble constant by adding SN 2023ixf to the existing sample; we obtain H$_{0}=73.1^{+3.68}_{-3.50}$ km s$^{-1}$ Mpc$^{-1}$, consistent with the results from SNe~Ia and many other independent methods.",
+    "authors": [
+      "Weikang Zheng",
+      "Luc Dessart",
+      "Alexei V. Filippenko",
+      "Yi Yang",
+      "Thomas G. Brink",
+      "Thomas De Jaeger",
+      "Sergiy S. Vasylyev",
+      "Schuyler D. Van Dyk",
+      "Kishore C. Patra",
+      "Wynn V. Jacobson-Galan",
+      "Gabrielle E. Stewart",
+      "Efrain Alvarado III",
+      "Veda Arikatla",
+      "Pallas Beddow",
+      "Andreas Betz",
+      "Emma Born",
+      "Kate Bostow",
+      "Adam J. Burgasser",
+      "Osmin Caceres",
+      "Evan M. Carrasco",
+      "Elma Chuang",
+      "Asia DeGraw",
+      "Elinor L. Gates",
+      "Eli Gendreau-Distler",
+      "Cooper Jacobus",
+      "Connor Jennings",
+      "Preethi R. Karpoor",
+      "Paul Lynam",
+      "Ann Mina",
+      "Katherine Mora",
+      "Neil Pichay",
+      "Jyotsna Ravi",
+      "Jon Rees",
+      "R. Michael Rich",
+      "Sophia Risin",
+      "Nathan R. Sandford",
+      "Alessandro Savino",
+      "Emma Softich",
+      "Christopher A. Theissen",
+      "Edgar P. Vidal",
+      "William Wu",
+      "Yoomee Zeng"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2504.00098",
+    "title": "The Optical to X-ray Luminosity and Spectrum of Supernova Wind Breakouts",
+    "url": "https://arxiv.org/abs/2504.00098",
+    "keywords": [
+      "supernovae",
+      "simulation",
+      "light curves",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "Observations indicate that optically thick circum-stellar medium (CSM) at radii of $10^{14}-10^{15}$ cm around core-collapse supernovae (SN) progenitors is common. The breakout of the SN radiation-mediated shock (RMS) through such CSM leads to the formation of a collisionless shock (CLS). We analyze the evolution of the shock structure and associated radiation field during and after the RMS-CLS transition for non-relativistic breakouts (breakout shock velocity $v_{\\rm bo}=10^9v_9~{\\rm cm/s}<0.1c$) through a hydrogen-rich CSM \"wind\" density profile, $\\rho\\propto r^{-2}$, with breakout radius $R_{{\\rm bo}}=10^{14}R_{14}$ cm much larger than the progenitor radius. An analytic description of the key properties of the emitted optical to X-ray radiation is provided, supported by numeric radiation-hydrodynamics calculations that self-consistently describe the time-dependent spatial distribution of the plasma and radiation, governed by the interplay between Bremsstrahlung emission/absorption and inelastic Compton scattering. We show that the characteristic energy of the photons carrying most of the luminosity, $\\approx10^{43}R_{14}v_9^2$ erg/s, shifts from UV to X-ray, reaching 1 keV as the shock reaches $\\approx3R_{\\rm bo}$. The X-ray signal is not suppressed by propagation through the upstream wind, and its absence may suggest that the dense CSM does not extend much beyond $R_{\\rm bo}$. Our results provide the basis for a quantitative calculation of the high energy $\\gamma$-ray and neutrino emission that is expected from particles accelerated at the CLS, and will allow using data from upcoming surveys that will systematically detect large numbers of young SNe, particularly ULTRASAT, to infer the pre-explosion mass loss history of the SN progenitor population.",
+    "authors": [
+      "Tal Wasserman",
+      "Nir Sapir",
+      "Peter Szabo",
+      "Eli Waxman"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2504.06445",
+    "title": "Hydrodynamic Modelling of Early Peaks in Type Ibc Supernovae with Shock Cooling Emission from Circumstellar Matter",
+    "url": "https://arxiv.org/abs/2504.06445",
+    "keywords": [
+      "simulation",
+      "supernovae",
+      "light curves",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "Recent high-cadence transient surveys have uncovered a rare subclass of Type Ibc supernovae (SNe) that exhibit an early, blue peak lasting a few days before the main, radioactively powered peak. Since progenitors of Type Ibc SNe are typically compact and lack an extended envelope, this early peak is commonly attributed to shock cooling emission from circumstellar matter (CSM) surrounding the progenitor star. As such, these SNe provide a unique opportunity to constrain the pre-explosion activity of Type Ibc SN progenitors. We present the first systematic study of this Type Ibc SN population that uses hydrodynamic modelling. We simulated Type Ibc SNe exploding in a CSM using the multi-group radiation-hydrodynamics code STELLA, exploring a range of SN and CSM properties. By comparing the resulting theoretical multi-band light curves to a sample of seven Type Ibc SNe with early peaks, we constrained their CSM properties. Assuming a wind-like density distribution for the CSM, we found CSM masses of $10^{-2} - 10^{-1} \\ \\mathrm{M}_\\odot$ and CSM radii of $(1 - 5) \\times 10^3 \\ \\mathrm{R}_\\odot$. While the masses were roughly consistent with a previous estimate obtained using an analytical model, the radii were significantly different, likely due to our assumption of spatially spread out CSM. We infer that the progenitors could have created CSM via late-time binary mass transfer or pulsational pair instability. We also estimate that, in the planned ULTRASAT high-cadence survey, $\\sim 30$ shock cooling peaks from Type Ibc SNe will be observed.",
+    "authors": [
+      "Ryotaro Chiba",
+      "Takashi J. Moriya"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2504.16802",
+    "title": "Cyclic Zoom: Multi-scale GRMHD Modeling of Black Hole Accretion and Feedback",
+    "url": "https://arxiv.org/abs/2504.16802",
+    "keywords": [
+      "accretion disk",
+      "simulation",
+      "methods paper",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "We present a ``cyclic zoom'' method to capture the dynamics of accretion flows onto black holes across a vast range of spatial and temporal scales in general relativistic magnetohydrodynamic (GRMHD) simulations. In this method, we cyclically zoom out (derefine) and zoom in (refine) the simulation domain while using a central mask region containing a careful treatment of the coarsened fluid variables to preserve the small-scale physics, particularly the magnetic field dynamics. The method can accelerate GRMHD simulations by $\\gtrsim 10^5$ times for problems with large scale separation. We demonstrate the validity of the technique using a series of tests, including spherically symmetric Bondi accretion, the Blandford-Znajek monopole, magnetized turbulent Bondi accretion, accretion of a magnetized rotating torus, and the long-term evolution of an accreting torus about both Schwarzschild and Kerr black holes. As applications, we simulate Bondi and rotating torus accretion onto black holes from galactic scales, covering an extremely large dynamic range. In Bondi accretion, the accretion rate is suppressed relative to the Bondi rate by $\\sim(10r_\\mathrm{g}/r_\\mathrm{B})^{1/2}$ with a feedback power of $\\sim 0.01 \\dot{M} c^2$ for vanishing spin, and $\\sim 0.1 \\dot{M} c^2$ for spin $a\\approx0.9$. In the long-term evolution of a rotating torus, the accretion rate decreases with time as $\\dot{M}\\propto t^{-2}$ on timescales much longer than the viscous timescale, demonstrating that our method can capture not only quasi-steady problems but also secular evolution. Our new method likewise holds significant promise for applications to many other problems that need to cover vast spatial and temporal scales.",
+    "authors": [
+      "Minghao Guo",
+      "James M. Stone",
+      "Eliot Quataert",
+      "Volker Springel"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2504.14502",
+    "title": "Red Supergiant problem viewed from the nebular phase spectroscopy of type II supernovae",
+    "url": "https://arxiv.org/abs/2504.14502",
+    "keywords": [
+      "supernovae",
+      "observation",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "The red supergiant (RSG) problem refers to the observed dearth of luminous RSGs identified as progenitors of Type II supernovae (SNe II) in pre-SN imaging. Understanding this phenomenon is essential for studying pre-SN mass loss and the explodability of core-collapse SNe. In this work, we re-assess the RSG problem using late-phase spectroscopy of a sample of 50 SNe II. The [O I] $\\lambda\\lambda$6300,6363 emission in the spectra is employed to infer the zero-age main sequence (ZAMS) mass distribution of the progenitors, which is then transformed into a luminosity distribution via an observation-calibrated mass-luminosity relation. The resulting luminosity distribution reveals an upper cutoff at log $L/L_{\\odot} = 5.21^{+0.09}_{-0.07}$ dex, and the RSG problem is statistically significant at the 2$\\sigma$ to 3$\\sigma$ level. Assuming single RSG progenitors that follow the mass-luminosity relation of KEPLER models, this luminosity cutoff corresponds to an upper ZAMS mass limit of $20.63^{+2.42}_{-1.64}$ $M_{\\odot}$. Comparisons with independent measurements, including pre-SN imaging and plateau-phase light curve modeling, consistently yield an upper ZAMS mass limit below about 25 $M_{\\odot}$, with a significance level of 1-3$\\sigma$. While each individual method provides only marginal significance, the consistency across multiple methodologies suggests that the lack of luminous RSG progenitors may reflect a genuine physical problem. Finally, we discuss several scenarios to account for this issue should it be confirmed as a true manifestation of stellar physics.",
+    "authors": [
+      "Qiliang Fang",
+      "Takashi J. Moriya",
+      "Keiichi Maeda"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2504.11537",
+    "title": "3D full-GR simulations of magnetorotational core-collapse supernovae on GPUs: A systematic study of rotation rates and magnetic fields",
+    "url": "https://arxiv.org/abs/2504.11537",
+    "keywords": [
+      "simulation",
+      "core-collapse",
+      "supernovae",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "We present a series of fully three-dimensional, dynamical-spacetime general relativistic magnetohydrodynamics (GRMHD) simulations of core-collapse supernovae (CCSNe) for a progenitor of zero-age-main-sequence (ZAMS) mass $25\\, M_\\odot$. We simulate a total of 12 models for simulation times in the range $190-260\\, \\mathrm{ms}$ to systematically study the effect of rotation rates and magnetic fields on jet formation via the magnetorotational mechanism. We have performed simulations on OLCF's Frontier using the new GPU-accelerated dynamical-spacetime GRMHD code \\theCode for magnetic fields $B_0 = (10^{11}, 10^{12})\\, \\mathrm{G}$ and rotation rates $\\Omega_0 = (0.14, 0.5, 1.0, 1.5, 2.0, 2.5)\\, \\mathrm{rad/s}$. We always resolve the entire region containing the shock with a resolution of at least $1.48\\, \\mathrm{km}$. We find that models with $B_0=10^{11}\\, \\mathrm{G}$ fail to explode, while those with $B_0=10^{12}\\, \\mathrm{G}$ show a wide range of jet morphologies and explosive outcomes depending on the rotation rate. Models with $B_0=10^{12}\\, \\mathrm{G}$ and $\\Omega_0=(1.0,1.5)\\, \\mathrm{rad/s}$ form jets that bend sideways, giving the ejecta a more spherical character, and possibly representing explosions that \\textit{appear} neutrino-driven even though they are magnetorotationally-driven. Models with $B_0=10^{12}\\, \\mathrm{G}$ and $\\Omega_0\\geq2.0\\, \\mathrm{rad/s}$ show ejecta velocities $\\gtrsim15000\\, \\mathrm{km/s}$, making them suitable candidates for broad-lined type Ic supernova progenitors. This work represents the largest set of 3D general-relativistic GRMHD simulations studying magnetorotational supernovae in full GR and demonstrates the potential of systematic studies with GPU-accelerated 3D simulations of CCSNe.",
+    "authors": [
+      "Swapnil Shankar",
+      "Philipp M\u00f6sta",
+      "Roland Haas",
+      "Erik Schnetter"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2504.10928",
+    "title": "Radiative-transfer models for dusty Type II supernovae",
+    "url": "https://arxiv.org/abs/2504.10928",
+    "keywords": [
+      "supernovae",
+      "simulation",
+      "light curves",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "Dust is expected to form on a year timescale in core-collapse supernova (SN) ejecta. Its existence is revealed through an infrared brightening, an optical dimming, or a blue-red emission-line profile asymmetry. To investigate how the dust location and amount impact observations, we computed ultraviolet-to-optical spectra of interacting and standard, noninteracting Type II SNe using state-of-the-art models -- for simplicity we adopted 0.1micron silicate grains. These models account for the full ejecta and treat both radioactive decay and shock power that arises from interaction of the ejecta with circumstellar material. In a Type IIn SN such as 1998S at one year, approximately 3e-4Msun of dust within the dense shell reproduces the broad, asymmetric Halpha profile. It causes an optical dimming of ~2mag (which obscures any emission from the inner, metal-rich ejecta) but, paradoxically, a more modest dimming of the ultraviolet, which originates from the outer parts of the dense shell. In Type II SNe with late-time interaction, such as SN2017eaw, dust in the low-mass, fast outer ejecta dense shell tends to be optically thin, impacting little the optical spectrum for dust masses of order 1e-4Msun. In such SNe II with interaction, dust in the inner metal-rich ejecta has negligible effect on observed spectra in the ultraviolet and optical. In noninteracting SNe II, dust within the metal-rich ejecta preferentially quenches the [OI]6300,6364 and [CaII]7291,7323 metal lines, biasing the emission in favor of the H-rich material which generates the Halpha and FeII emission below 5500A. Our model with 5e-4Msun of dust below 2000km/s matches closely the optical spectrum of SN1987A at 714d. Modeling historical SNe requires treating both the ejecta material and the dust, as well as multiple power sources, although interaction power will generally dominate.",
+    "authors": [
+      "Luc Dessart",
+      "D. John Hillier",
+      "Arkaprabha Sarangi"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2504.08886",
+    "title": "The kangaroo's first hop: the early fast cooling phase of EP250108a/SN 2025kg",
+    "url": "https://arxiv.org/abs/2504.08886",
+    "keywords": [
+      "observation",
+      "supernovae",
+      "collapsar",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "Fast X-ray transients (FXTs) are a rare and poorly understood population of events. Previously difficult to detect in real time, the launch of the Einstein Probe with its wide field X-ray telescope has led to a rapid expansion in the sample and allowed the exploration of these transients across the electromagnetic spectrum. EP250108a is a recently detected example linked to an optical counterpart, SN 2025kg, or 'the kangaroo'. Together with a companion paper (Rastinejad et al. 2025), we present our observing campaign and analysis of this event. In this letter, we focus on the early evolution of the optical counterpart over the first six days, including our measurement of the redshift of $z=0.17641$. We find that the source is well-modelled by a rapidly expanding cooling blackbody. We show the observed X-ray and radio properties are consistent with a collapsar-powered jet that is low energy ($\\lesssim10^{51}$ erg) and/or fails to break out of the dense material surrounding it. The optical emission therefore likely arises from a shocked cocoon resulting from the trapped jet; however, we also examine the possibility that it emerges from the shock produced as the supernova ejecta expand into a dense shell of circumstellar material. We compare to other supernovae and fast transients showing similar features, finding significant similarities with SN 2006aj and SN 2020bvc. This suggests trapped jets could be more common than previously thought and SN 2025kg may herald a larger sample of similar transients.",
+    "authors": [
+      "Rob A. J. Eyles-Ferris",
+      "Peter G. Jonker",
+      "Andrew J. Levan",
+      "Daniele Bj\u00f8rn Malesani",
+      "Nikhil Sarin",
+      "Christopher L. Fryer",
+      "Jillian C. Rastinejad",
+      "Eric Burns",
+      "Nial R. Tanvir",
+      "Paul T. O'Brien",
+      "Wen-fai Fong",
+      "Ilya Mandel",
+      "Benjamin P. Gompertz",
+      "Charles D. Kilpatrick",
+      "Steven Bloemen",
+      "Joe S. Bright",
+      "Francesco Carotenuto",
+      "Gregory Corcoran",
+      "Laura Cotter",
+      "Paul J. Groot",
+      "Luca Izzo",
+      "Tanmoy Laskar",
+      "Antonio Martin-Carrillo",
+      "Jesse Palmerio",
+      "Maria E. Ravasio",
+      "Jan van Roestel",
+      "Andrea Saccardi",
+      "Rhaana L. C. Starling",
+      "Aishwarya Linesh Thakur",
+      "Susanna D. Vergani",
+      "Paul M. Vreeswijk",
+      "Franz E. Bauer",
+      "Sergio Campana",
+      "Jennifer A. Chac\u00f3n",
+      "Ashley A. Chrimes",
+      "Stefano Covino",
+      "Joyce N. D. van Dalen",
+      "Valerio D'Elia",
+      "Massimiliano De Pasquale",
+      "Nusrin Habeeb",
+      "Dieter H. Hartmann",
+      "Agnes P. C. van Hoof",
+      "P\u00e1ll Jakobsson",
+      "Yashaswi Julakanti",
+      "Giorgos Leloudas",
+      "Daniel Mata S\u00e1nchez",
+      "Christopher J. Nixon",
+      "Dani\u00eblle L. A. Pieterse",
+      "Giavanna Pugliese",
+      "Jonathan Quirola-V\u00e1squez",
+      "Ben C. Rayson",
+      "Ruben Salvaterra",
+      "Ben Schneider",
+      "Manuel A. P. Torres",
+      "Tayyaba Zafar"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2504.08889",
+    "title": "EP 250108a/SN 2025kg: Observations of the most nearby Broad-Line Type Ic Supernova following an Einstein Probe Fast X-ray Transient",
+    "url": "https://arxiv.org/abs/2504.08889",
+    "keywords": [
+      "observation",
+      "supernovae",
+      "not-read",
+      "not-printed",
+      "collapsar"
+    ],
+    "abs": "With a small sample of fast X-ray transients (FXTs) with multi-wavelength counterparts discovered to date, the progenitors of FXTs and their connections to gamma-ray bursts (GRBs) and supernovae (SNe) remain ambiguous. Here, we present photometric and spectroscopic observations of SN 2025kg, the supernova counterpart to the FXT EP 250108a. At $z=0.17641$, this is the closest known SN discovered following an Einstein Probe (EP) FXT. We show that SN 2025kg's optical spectra reveal the hallmark features of a broad-lined Type Ic SN. Its light curve evolution and expansion velocities are also comparable to those of GRB-SNe, including SN 1998bw, and several past FXT SNe. We present JWST/NIRSpec spectroscopy taken around SN 2025kg's maximum light, and find weak absorption due to He I $\\lambda 1.0830, \\lambda 2.0581$ $\\mu$m and a broad, unidentified feature at $\\sim$ 4-4.5 $\\mu$m. Further, we observe clear evidence for broadened H$\\alpha$ in optical data at 42.5 days that is not detected at other epochs, indicating interaction with hydrogen-rich material. From its light curve, we derive a $^{56}$Ni mass of 0.2 - 0.6 $M_{\\odot}$. Together with our companion paper (Eyles-Ferris et al. 2025), our broadband data of EP 250108a/SN 2025kg are consistent with a trapped or low energy ($\\lesssim 10^{51}$ ergs) jet-driven explosion from a collapsar with a zero-age main sequence mass of 15-30 $M_{\\odot}$. Finally, we show that the sample of EP FXT SNe support past rate estimates that low-luminosity jets seen through FXTs are more common than successful (GRB) jets, and that similar FXT-like signatures are likely present in at least a few percent of the brightest Ic-BL SNe.",
+    "authors": [
+      "J. C. Rastinejad",
+      "A. J. Levan",
+      "P. G. Jonker",
+      "C. D. Kilpatrick",
+      "C. L. Fryer",
+      "N. Sarin",
+      "B. P. Gompertz",
+      "C. Liu",
+      "R. A. J. Eyles-Ferris",
+      "W. Fong",
+      "E. Burns",
+      "J. H. Gillanders",
+      "I. Mandel",
+      "D. B. Malesani",
+      "P. T. O'Brien",
+      "N. R. Tanvir",
+      "K. Ackley",
+      "A. Aryan",
+      "F. E. Bauer",
+      "S. Bloemen",
+      "T. de Boer",
+      "C. R. Bom",
+      "J. A. Chacon",
+      "K. Chambers",
+      "T. -W. Chen",
+      "A. A. Chrimes",
+      "J. N. D. van Dalen",
+      "V. D'Elia",
+      "M. De Pasquale",
+      "M. D. Fulton",
+      "P. J. Groot",
+      "R. Gupta",
+      "D. H. Hartmann",
+      "A. P. C. van Hoof",
+      "M. E. Huber",
+      "L. Izzo",
+      "W. Jacobson-Galan",
+      "P. Jakobsson",
+      "A. Kong",
+      "T. Laskar",
+      "T. B. Lowe",
+      "E. A. Magnier",
+      "E. Maiorano",
+      "A. Martin-Carrillo",
+      "L. Mas-Ribas",
+      "D. Mata Sanchez",
+      "M. Nicholl",
+      "C. J. Nixon",
+      "S. R. Oates",
+      "G. Paek",
+      "J. Palmerio",
+      "D. Paris",
+      "D. L. A. Pieterse",
+      "G. Pugliese",
+      "J. A. Quirola Vasquez",
+      "J. van Roestel",
+      "A. Rossi",
+      "A. Rouco Escorial. R. Salvaterra",
+      "B. Schneider",
+      "S. J. Smartt",
+      "K. Smith",
+      "I. A. Smith",
+      "S. Srivastav",
+      "M. A. P. Torres",
+      "C. Ventura",
+      "P. Vreeswijk",
+      "R. Wainscoat",
+      "Y. -J. Yang",
+      "S. Yang"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2504.17516",
+    "title": "EP250108a/SN 2025kg: A Broad-Line Type Ic Supernova Associated with a Fast X-ray Transient Showing Evidence of Extended CSM Interaction",
+    "url": "https://arxiv.org/abs/2504.17516",
+    "keywords": [
+      "supernovae",
+      "collapsar",
+      "observation",
+      "light curves",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "We present optical, radio, and X-ray observations of EP250108a/SN 2025kg, a broad-line Type Ic supernova (SN Ic-BL) accompanying an Einstein Probe (EP) fast X-ray transient (FXT) at $z=0.176$. EP250108a/SN 2025kg possesses a double-peaked optical light curve and its spectrum transitions from a blue underlying continuum to a typical SN Ic-BL spectrum over time. We fit a radioactive decay model to the second peak of the optical light curve and find SN parameters that are consistent with the SNe Ic-BL population, while its X-ray and radio properties are consistent with those of low-luminosity GRB (LLGRB) 060218/SN 2006aj. We explore three scenarios to understand the system's multi-wavelength emission -- (a) SN ejecta interacting with an extended circumstellar medium (CSM), (b) the shocked cocoon of a collapsar-driven jet choked in its stellar envelope, and (c) the shocked cocoon of a collapsar-driven jet choked in an extended CSM. All three models can explain the optical light curve and are also consistent with the radio and X-ray observations. We favor models (a) and (c) because they self-consistently explain both the X-ray prompt emission and first optical peak, but we do not rule out model (b). From the properties of the first peak in models (a) and (c), we find evidence that EP250108a/SN 2025kg interacts with an extended CSM, and infer an envelope mass $M_{\\rm e} \\sim 0.1\\,\\rm M_\\odot$ and radius $R_{\\rm e} \\sim 4 \\times 10^{13}$ cm. EP250108a/SN 2025kg's multi-wavelength properties make it a close analog to LLGRB 060218/SN 2006aj, and highlight the power of early follow-up observations in mapping the environments of massive stars prior to core collapse.",
+    "authors": [
+      "Gokul P. Srinivasaragavan",
+      "Hamid Hamidani",
+      "Genevieve Schroeder",
+      "Nikhil Sarin",
+      "Anna Y. Q. Ho",
+      "Anthony L. Piro",
+      "S. Bradley Cenko",
+      "Shreya Anand",
+      "Jesper Sollerman",
+      "Daniel A. Perley",
+      "Keiichi Maeda",
+      "Brendan O'Connor",
+      "Hanindyo Kuncarayakti",
+      "M. Coleman Miller",
+      "Tom\u00e1s Ahumada",
+      "Jada Vail",
+      "Paul Duffell",
+      "Ranadeep Ghosh Dastidar",
+      "Igor Andreoni",
+      "Aleksandra Bochenek",
+      "Se\u00e1n J. Brennan",
+      "Jonathan Carney",
+      "Ping Chen",
+      "James Freeburn",
+      "Avishay Gal-Yam",
+      "Wynn Jacobson-Gal\u00e1n",
+      "Mansi M. Kasliwal",
+      "Jiaxuan Li",
+      "Maggie L. Li",
+      "Niharika Sravan",
+      "Daniel E. Warshofsky"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2504.15335",
+    "title": "Plasma Instabilities Dominate Radioactive Transients Magnetic Fields: The self-confinement of leptons in Type Ia and Core-Collapse Supernovae, and Kilonovae",
+    "url": "https://arxiv.org/abs/2504.15335",
+    "keywords": [
+      "neutrinos",
+      "simulation",
+      "kilonova",
+      "particles",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "The light curves of radioactive transients, such as supernovae and kilonovae, are powered by the decay of radioisotopes, which release high-energy leptons through $\\beta^+$ and $\\beta^-$ decays. These leptons deposit energy into the expanding ejecta. As the ejecta density decreases during expansion, the plasma becomes collisionless, with particle motion governed by electromagnetic forces. In such environments, strong or turbulent magnetic fields are thought to confine particles, though the origin of these fields and the confinement mechanism have remained unclear. Using fully kinetic particle-in-cell (PIC) simulations, we demonstrate that plasma instabilities can naturally confine high-energy leptons. These leptons generate magnetic fields through plasma streaming instabilities, even in the absence of pre-existing fields. The self-generated magnetic fields slow lepton diffusion, enabling confinement and transferring energy to thermal electrons and ions. Our results naturally explain the positron trapping inferred from late-time observations of thermonuclear and core-collapse supernovae. Furthermore, they suggest potential implications for electron dynamics in the ejecta of kilonovae. We also estimate synchrotron radio luminosities from positrons for Type Ia supernovae and find that such emission could only be detectable with next-generation radio observatories from a Galactic or local-group supernova in an environment without any circumstellar material.",
+    "authors": [
+      "Dhvanil D. Desai",
+      "Colby C. Haggerty",
+      "Benjamin J. Shappee",
+      "Michael A. Tucker",
+      "Zachary Davis",
+      "Chris Ashall",
+      "Laura Chomiuk",
+      "Keyan Gootkin",
+      "Damiano Caprioli",
+      "Antoine Bret",
+      "Hayk Hakobyan"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2503.23856",
+    "title": "Explodability criteria for the neutrino-driven supernova mechanism",
+    "url": "https://arxiv.org/abs/2503.23856",
+    "keywords": [
+      "supernovae",
+      "read",
+      "printed",
+      "core-collapse"
+    ],
+    "abs": "Massive stars undergoing iron core-collapse at the end of their evolution terminate their lives either in successful or failed supernovae (SNe). The physics of core-collapse supernovae (CCSNe) is complex, and their understanding requires computationally expensive simulations. Using these to predict CCSN outcomes over large, densely sampled parameter spaces of SN progenitors, as is needed e.g. for population synthesis studies, is thus not feasible. To remedy this situation, we present explodability criteria that allow us to predict the final fates of stars by evaluating stellar structure variables at the onset of core-collapse. The criteria are calibrated to predictions of a semi-analytical SN model, evaluated over a set of $\\sim$~3,900 heterogeneous stellar progenitors (single, binary-stripped and accretor stars). Over these, the criteria achieve an accuracy of >99\\% agreement with the semi-analytical model. The criteria are tested on 29 state-of-the-art 3D CCSN simulation outcomes from two different groups.   Furthermore, we find that all explodability proxies needed for our pre-SN structure-based criteria have two distinct peaks and intervening valleys as a function of the carbon-oxygen (CO) core mass $M_\\mathrm{CO}$, which coincide with failed and successful SNe, respectively. The CO core masses of explodability peaks shift systematically with metallicity, $Z$, and with timing of hydrogen-rich envelope removal by binary mass transfer. With these, we identify critical values in $M_\\mathrm{CO}$ that define windows over which black holes form by direct collapse and formulate a CCSN recipe based on $M_\\mathrm{CO}$ and $Z$, applicable for rapid binary population synthesis and other studies. Our explodability formalism is consistent with observations of Type~IIP, IIb/Ib and Ic supernova progenitors and partially addresses the missing Red Supergiant Problem by direct black hole formation.",
+    "authors": [
+      "K. Maltsev",
+      "F. R. N. Schneider",
+      "I. Mandel",
+      "B. Mueller",
+      "A. Heger",
+      "F. K. Roepke",
+      "E. Laplace"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2505.04698",
+    "title": "Final Moments III: Explosion Properties and Progenitor Constraints of CSM-Interacting Type II Supernovae",
+    "url": "https://arxiv.org/abs/2505.04698",
+    "keywords": [
+      "supernovae",
+      "observation",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "We present analysis of the plateau and late-time phase properties of a sample of 39 Type II supernovae (SNe II) that show narrow, transient, high-ionization emission lines (i.e., \"IIn-like\") in their early-time spectra from interaction with confined, dense circumstellar material (CSM). Originally presented by Jacobson-Gal\\'an et al 2024a, this sample also includes multicolor light curves and spectra extending to late-time phases of 35 SNe with no evidence for IIn-like features at <2 days after first light. We measure photospheric phase light-curve properties for the distance-corrected sample and find that SNe II with IIn-like features have significantly higher luminosities and decline rates at +50 days than the comparison sample, which could be connected to inflated progenitor radii, lower ejecta mass, and/or persistent CSM interaction. However, we find no statistical evidence that the measured plateau durations and $^{56}$Ni masses of SNe II with and without IIn-like features arise from different distributions. We estimate progenitor zero-age main sequence (ZAMS) masses for all SNe with nebular spectroscopy through spectral model comparisons and find that most objects, both with and without IIn-like features, are consistent with progenitor masses <12.5 M$_{\\odot}$. Combining progenitor ZAMS masses with CSM densities inferred from early-time spectra suggests multiple channels for enhanced mass loss in the final years before core collapse such as a convection-driven chromosphere or binary interaction. Finally, we find spectroscopic evidence for ongoing ejecta-CSM interaction at radii $>10^{16}$ cm, consistent with substantial progenitor mass-loss rates of $\\sim 10^{-4}$--$10^{-5}$ M$_{\\odot}$ yr$^{-1}$ ($v_w < 50$ km/s) in the final centuries to millennia before explosion.",
+    "authors": [
+      "W. V. Jacobson-Gal\u00e1n",
+      "L. Dessart",
+      "K. W. Davis",
+      "K. A. Bostroem",
+      "C. D. Kilpatrick",
+      "R. Margutti",
+      "A. V. Filippenko",
+      "R. J. Foley",
+      "R. Chornock",
+      "G. Terreran",
+      "D. Hiramatsu",
+      "M. Newsome",
+      "E. Padilla Gonzalez",
+      "C. Pellegrino",
+      "D. A. Howell",
+      "J. P. Anderson",
+      "C. R. Angus",
+      "K. Auchettl",
+      "T. G. Brink",
+      "R. Cartier",
+      "D. A. Coulter",
+      "T. de Boer",
+      "M. R. Drout",
+      "N. Earl",
+      "K. Ertini",
+      "J. R. Farah",
+      "D. Farias",
+      "C. Gall",
+      "H. Gao",
+      "M. A. Gerlach",
+      "F. Guo",
+      "A. Haynie",
+      "G. Hosseinzadeh",
+      "A. L. Ibik",
+      "S. W. Jha",
+      "D. O. Jones",
+      "D. Langeroodi",
+      "N LeBaron",
+      "E. A. Magnier",
+      "A. L. Piro",
+      "S. I. Raimundo",
+      "A. Rest",
+      "S. Rest",
+      "R. Michael Rich",
+      "C. Rojas-Bravo",
+      "H. Sears",
+      "K. Taggart",
+      "V. A. Villar",
+      "R. J. Wainscoat",
+      "X-F. Wang",
+      "A. R. Wasserman",
+      "S. Yan",
+      "Y. Yang",
+      "J. Zhang",
+      "W. Zheng"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2505.03975",
+    "title": "Spectropolarimetric Evolution of SN 2023ixf: an Asymmetric Explosion in a Confined Aspherical Circumstellar Medium",
+    "url": "https://arxiv.org/abs/2505.03975",
+    "keywords": [
+      "supernovae",
+      "observation",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "We present complete spectropolarimetric coverage of the Type II supernova (SN) 2023ixf ranging from 1 to 120 days after explosion. Polarimetry was obtained with the Kast double spectrograph on the Shane 3m telescope at Lick Observatory. As the ejecta interact with circumstellar material (CSM) during the first week, the intrinsic polarization of SN 2023ixf is initially high at $\\lesssim$1%, dropping steeply within days down to $\\sim$ 0.4% when the ejecta sweep up the optically-thick CSM. The continuum polarization stays low at $\\sim$ 0.2% thereafter, until it rises again to $\\sim$ 0.6% as the ejecta transition to the nebular phase. We model this evolution using a combination of archival and newly-computed 2D polarized radiative-transfer models. In this context, we interpret the early-time polarization as arising from an aspherical CSM with a pole-to-equator density contrast $\\gtrsim$ 3. We propose that the surge in polarization at late times originates from an asymmetric distribution of $^{56}$Ni deep in the ejecta. The distinct sources of asymmetries at early and late times are consistent with the temporal evolution of the observed polarization and the polarization angle in SN 2023ixf.",
+    "authors": [
+      "Sergiy S. Vasylyev",
+      "Luc Dessart",
+      "Yi Yang",
+      "Alexei V. Filippenko",
+      "Kishore C. Patra",
+      "Thomas G. Brink",
+      "Lifan Wang",
+      "Ryan Chornock",
+      "Raffaella Margutti",
+      "Elinor L. Gates",
+      "Adam J. Burgasser",
+      "Huei Sears",
+      "Preethi R. Karpoor",
+      "Natalie LeBaron",
+      "Emma Softich",
+      "Christopher A. Theissen",
+      "Eli Wiston",
+      "WeiKang Zheng"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2505.19592",
+    "title": "Occurrence of fast neutrino flavor conversions in QCD phase-transition supernovae",
+    "url": "https://arxiv.org/abs/2505.19592",
+    "keywords": [
+      "neutrino",
+      "particles",
+      "core-collapse",
+      "not-read",
+      "not-printed",
+      "nucleosynthesis"
+    ],
+    "abs": "Core-collapse supernovae undergoing a first-order quantum chromodynamics (QCD) phase transition experience the collapse of the central proto-neutron star that leads to a second bounce. This event is accompanied by the release of a second neutrino burst. Unlike the first stellar core bounce neutrino burst which consists exclusively of electron neutrinos, the second burst is dominated by electron antineutrinos. Such a condition makes QCD supernovae an ideal site for the occurrence of fast neutrino flavor conversion (FFC), which can lead to rapid flavor equilibration and significantly impact the related neutrino signal. In this work, we perform a detailed analysis of the conditions for fast flavor instability (FFI) around and after the second neutrino burst in a QCD phase transition supernova model launched from a 25~$M_\\odot$ progenitor mass. We evaluate the relevant instability criteria and find two major phases of FFC. The first phase is closely associated with the collapse and the rapidly expanding shock wave, which is a direct consequence of the proto-neutron star collapse due to the phase transition. The second phase takes place a few milliseconds later when electron degeneracy is restored near the proto-neutron star surface. We also characterize the growth rate of FFI and estimate its impact on the evolution of the neutrino flavor content. The potential observational consequences on neutrino signals are evaluated by comparing a scenario assuming complete flavor equipartition with other scenarios without FFC. Finally, we investigate how FFC may influences $r$-process nucleosynthesis associated with QCD phase transition driven supernova explosions.",
+    "authors": [
+      "Zewei Xiong",
+      "Meng-Ru Wu",
+      "Noshad Khosravi Largani",
+      "Tobias Fischer",
+      "Gabriel Mart\u00ednez-Pinedo"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2505.19818",
+    "title": "Infrared diagnostics of late-time core-collapse supernova spectra",
+    "url": "https://arxiv.org/abs/2505.19818",
+    "keywords": [
+      "supernovae",
+      "simulation",
+      "radiative transfer",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "Nonlocal thermodynamic equilibrium radiative transfer calculations of red-supergiant and He-star explosions are presented, extending previous work to focus on the infrared emission from atoms and ions in the ejecta during the nebular-phase (i.e., ~200 to ~500d) -- molecules and dust are ignored. We cover non-rotating, solar-metallicity progenitors spanning an initial mass between 10 and about 40Msun, and exploding as Type II or Ibc supernovae (SNe). Both photometrically and spectroscopically, the SN II models evolve distinctly from the SN Ibc models, primarily because of the greater ejecta kinetic-energy-to-mass ratio in the latter, which leads to a greater gamma-ray escape together with a lower density and a higher ionization in our H-deficient ejecta. Type II SN models remain optically luminous at all times, whereas SN Ibc models progressively brighten in the infrared (which holds 80% of their luminosity at 500d), causing strong infrared lines such as [NeII]12.81mic or [NiII]6.634mic to evolve essentially at constant luminosity. We find that the strength of [NeII]12.81mic correlates with progenitor mass but with additional strong sensitivity to, for example, ejecta ionization -- this line radiates alone up to 20% of the SN luminosity after ~300d in our SN Ibc models. The numerous infrared Ni lines are found to be good tracers of the material that underwent explosive nucleosynthesis and can thus be used to constrain the level of 56Ni mixing in core-collapse SNe. The evolution of the integrated flux in infrared Fe and Co lines shows much diversity, which compromises their use as diagnostic of the 56Ni-decay power source in our models. Future spectroscopic observations of core-collapse SNe by the JWST will provide unprecedented information on the emission from atoms and ions in their ejecta, delivering critical constraints on the inner workings of massive star explosions.",
+    "authors": [
+      "Luc Dessart"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  },
+  {
+    "arxiv_id": "2506.01398",
+    "title": "Monte Carlo simulations of relativistic shock breakout from a stellar wind",
+    "url": "https://arxiv.org/abs/2506.01398",
+    "keywords": [
+      "simulation",
+      "relativistic",
+      "not-read",
+      "not-printed"
+    ],
+    "abs": "We present Monte Carlo simulations of relativistic radiation-mediated shocks (RRMS) in the photon-starved regime, incorporating photon escape from the upstream region -- characterized by the escape fraction, $f_{esc}$ -- under a steady-state assumption. These simulations, performed for shock Lorentz factors $\\Gamma_u = 2$, $6$, and $10$, are applicable to RRMS breakouts occurring in shallowly declining density profiles, such as stellar winds. We find that vigorous pair production acts as a thermostat, regulating the downstream temperature to $\\sim 100$-$200~{\\rm keV}$, largely independent of $f_{\\rm esc}$. A subshock forms and strengthens with increasing $f_{esc}$. The escaping spectra consistently peak at $E_p \\approx 300$-$600~{\\rm keV}$ in the shock frame and deviate from a Wien distribution, exhibiting low-energy flattening ($f_\\nu \\propto \\nu^0$) due to free-free emission and high-energy extensions caused by inverse Compton scattering from subshock-heated pairs. While the existing analytical model (Granot et al. 2018) reproduces the velocity structure well at $\\Gamma_u = 2$, it significantly overestimates the shock width at higher Lorentz factors, particularly for $f_{esc} \\gtrsim$ a few $\\%$. Based on this finding, we provide updated predictions for breakout observables in wind environments for $\\Gamma_u \\gtrsim 6$. Notably, the duration of the relativistic breakout becomes largely insensitive to the explosion energy and ejecta mass, typically exceeding analytical predictions by orders of magnitude and capable of producing a $\\sim$200 s flash of MeV photons with a radiated energy of $\\sim 7 \\times 10^{49}$ erg for an energetic explosion yielding $\\Gamma_{bo} \\sim 6$.",
+    "authors": [
+      "Hirotaka Ito",
+      "Amir Levinson",
+      "Ehud Nakar",
+      "Shigehiro Nagataki"
+    ],
+    "journal": "No journal reference",
+    "doi": "No DOI available",
+    "year": "2025"
+  }
+]
