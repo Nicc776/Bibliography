@@ -11,6 +11,7 @@ class BibliographyGUI:
         self.paper_list = save_load.load_papers()
         self.filtered_list = None  # To keep track of filtered results
         self.current_keyword = None
+        self.selected_keyword_index = None
 
         # --- Main Frame ---
         main_frame = tk.Frame(root)
@@ -72,11 +73,26 @@ class BibliographyGUI:
         self.keyword_listbox.delete(0, END)
         for kw, count in sorted_keywords:
             self.keyword_listbox.insert(END, f"{kw} ({count})")
+        self.keyword_listbox.delete(0, END)
+        for i, (kw, count) in enumerate(sorted_keywords):
+            self.keyword_listbox.insert(END, f"{kw} ({count})")
+        # Set color if this is the selected keyword
+            if self.selected_keyword_index == i:
+                self.keyword_listbox.itemconfig(i, {'fg': 'blue'})
+            else:
+                self.keyword_listbox.itemconfig(i, {'fg': 'black'})
 
     def filter_by_selected_keyword(self, event):
         selection = self.keyword_listbox.curselection()
         if not selection:
             return
+        # Clear previous selection color
+        if self.selected_keyword_index is not None:
+            self.keyword_listbox.itemconfig(self.selected_keyword_index, {'fg': 'black'})
+        # Set new selection color
+        self.selected_keyword_index = selection[0]
+        self.keyword_listbox.itemconfig(self.selected_keyword_index, {'fg': 'blue'})
+
         kw_with_count = self.keyword_listbox.get(selection[0])
         keyword = kw_with_count.split(" (")[0]
         self.filtered_list = [p for p in self.paper_list if keyword in [k.lower() for k in p.get_keywords()]]
@@ -84,6 +100,10 @@ class BibliographyGUI:
         self.refresh_list()
 
     def show_all(self):
+    # Reset keyword color
+        if self.selected_keyword_index is not None:
+            self.keyword_listbox.itemconfig(self.selected_keyword_index, {'fg': 'black'})
+            self.selected_keyword_index = None
         self.filtered_list = None
         self.current_keyword = None
         self.refresh_list()
